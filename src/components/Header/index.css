@@ -1,0 +1,33 @@
+.header-container {
+  width: 360px;
+  height: 200px;
+  background: #1e1e30;
+  color: white;
+  padding: 10px;
+}
+.main-heading {
+  font-family: 'Bree Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+  color: #f8fafc;
+}
+.nav-img {
+  /* add-to-queue 1 */
+  margin: auto;
+  height: 50px;
+  background-color: #1e1e30;
+  /* add-to-queue 1 */
+
+  width: 24px;
+  height: 24px;
+  top: 16px;
+  left: 312px;
+}
+.con1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 360px;
+}
